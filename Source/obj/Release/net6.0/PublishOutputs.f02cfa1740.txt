@@ -1,0 +1,5 @@
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\public\fileRenamer2.exe
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\public\fileRenamer2.dll
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\public\fileRenamer2.deps.json
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\public\fileRenamer2.runtimeconfig.json
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\public\fileRenamer2.pdb

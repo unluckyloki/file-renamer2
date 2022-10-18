@@ -1,0 +1,15 @@
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\bin\Debug\net6.0\fileRenamer2.exe
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\bin\Debug\net6.0\fileRenamer2.deps.json
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\bin\Debug\net6.0\fileRenamer2.runtimeconfig.json
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\bin\Debug\net6.0\fileRenamer2.dll
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\bin\Debug\net6.0\fileRenamer2.pdb
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.csproj.AssemblyReference.cache
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.AssemblyInfoInputs.cache
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.AssemblyInfo.cs
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.csproj.CoreCompileInputs.cache
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.dll
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\refint\fileRenamer2.dll
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.pdb
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\fileRenamer2.genruntimeconfig.cache
+C:\Users\Loki\Desktop\!Projects\fileRenamer2\obj\Debug\net6.0\ref\fileRenamer2.dll
